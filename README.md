@@ -32,5 +32,6 @@ Esta é uma API RESTful simples construída com Node.js, Express, e MongoDB, e c
 
 3. **Construir e Executar os Contêineres**
 
+    ```bash
     docker-compose up --build
 
