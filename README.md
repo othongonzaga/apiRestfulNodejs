@@ -22,7 +22,7 @@ Esta é uma API RESTful simples construída com Node.js, Express, e MongoDB, e c
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/othongonzaga/apiRestfulNodejs.git
    cd nome-do-repositorio
 
 
